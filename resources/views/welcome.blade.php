@@ -73,7 +73,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Arum Alra Warani <hr> Qurrota A'yunin
+                    Konflik Branch Master
                 </div>
 
                 <div class="links">
