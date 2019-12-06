@@ -73,7 +73,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Konflik di Branch Master
+                    Konflik Master
                 </div>
 
                 <div class="links">
