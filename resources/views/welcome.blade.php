@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Arum Alra Warani
+                    Arum Alra Warani </br> Resolve konflik Arum
                 </div>
 
                 <div class="links">
